@@ -1,0 +1,10 @@
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\bin\Debug\FatStatistics.exe.config
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\bin\Debug\FatStatistics.exe
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\bin\Debug\FatStatistics.pdb
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\obj\Debug\FatStatistics.csprojResolveAssemblyReference.cache
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\obj\Debug\FatStatistics.Form1.resources
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\obj\Debug\FatStatistics.Properties.Resources.resources
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\obj\Debug\FatStatistics.csproj.GenerateResource.Cache
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\obj\Debug\FatStatistics.exe
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\obj\Debug\FatStatistics.pdb
+C:\Users\Админчик\Documents\Visual Studio 2015\Projects\FatStatistics\FatStatistics\bin\Debug\MySql.Data.dll
